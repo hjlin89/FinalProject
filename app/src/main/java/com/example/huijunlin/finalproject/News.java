@@ -31,6 +31,7 @@ public class News implements Serializable {
         return Content;
     }
 
+    @JsonProperty("NewsID")
     public Long getNewsID() {
         return NewsID;
     }
