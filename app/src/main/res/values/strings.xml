@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Teams">Teams</string>
+    <string name="Players">Players</string>
+    <string name="Others">Others</string>
+
+</resources>
